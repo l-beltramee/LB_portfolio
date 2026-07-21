@@ -1,12 +1,12 @@
-# Jogo da Velha 🎮
+# Jogo da Velha
 
 Um jogo clássico da velha implementado em Python, onde você joga contra o computador.
 
-## 📋 Descrição
+## Descrição
 
-Neste jogo você coloca **X** e o computador coloca **O**. O objetivo é conseguir 3 peças em linha (horizontal, vertical ou diagonal) antes que o computador consiga.
+Neste jogo você coloca X e o computador coloca O. O objetivo é conseguir 3 peças em linha (horizontal, vertical ou diagonal) antes que o computador consiga.
 
-## 🎯 Como Jogar
+## Como Jogar
 
 1. O tabuleiro será exibido com números de 1 a 9 representando cada posição
 2. Digite o número da posição onde quer colocar seu X
@@ -22,7 +22,7 @@ Neste jogo você coloca **X** e o computador coloca **O**. O objetivo é consegu
 7 | 8 | 9
 ```
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Requisitos
 - Python 3.x instalado no seu computador
@@ -44,9 +44,7 @@ cd LB_portfolio/Jogos
 python jogo_da_velha.py
 ```
 
-4. Divirta-se! 🎉
-
-## 📝 Exemplo de Jogo
+## Exemplo de Jogo
 
 ```
 [1, 2, 3]
@@ -61,23 +59,19 @@ Digite onde quer colocar: 5
 (Computador joga...)
 ```
 
-## 🔄 Status
+## Status
 
-- ✅ Jogo funcional
-- 🤖 Computador joga aleatoriamente
-- ⚡ Verificação de vitória (linhas, colunas e diagonais)
-- 🎯 Detecção de empate
+- Jogo funcional
+- Computador joga aleatoriamente
+- Verificação de vitória (linhas, colunas e diagonais)
+- Detecção de empate
 
-## 💡 Melhorias Futuras
+## Melhorias Futuras
 
-- [ ] IA mais inteligente para o computador
-- [ ] Interface gráfica
-- [ ] Placar de pontuação
+- IA mais inteligente para o computador
+- Interface gráfica
+- Placar de pontuação
 
-## 👨‍💻 Autor
+## Autor
 
-Criado por **L Beltrame**
-
----
-
-Divirta-se jogando! 🎮
+Criado por L Beltrame
