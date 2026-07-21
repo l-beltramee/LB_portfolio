@@ -1,19 +1,13 @@
-# Jogo da Velha
+# Tic Tac Toe
 
-Um jogo clássico da velha implementado em Python, onde você joga contra o computador.
+## How to Play
 
-## Descrição
+1. The board will be displayed with numbers 1 to 9 representing each position
+2. Enter the number of the position where you want to place your X
+3. The computer will make its move automatically
+4. The game continues until someone wins or it's a draw
 
-Neste jogo você coloca X e o computador coloca O. O objetivo é conseguir 3 peças em linha (horizontal, vertical ou diagonal) antes que o computador consiga.
-
-## Como Jogar
-
-1. O tabuleiro será exibido com números de 1 a 9 representando cada posição
-2. Digite o número da posição onde quer colocar seu X
-3. O computador fará sua jogada automaticamente
-4. O jogo continua até alguém vencer ou dar um empate
-
-### Posições do Tabuleiro
+### Board Positions
 ```
 1 | 2 | 3
 ---------
@@ -22,56 +16,55 @@ Neste jogo você coloca X e o computador coloca O. O objetivo é conseguir 3 pe�
 7 | 8 | 9
 ```
 
-## Como Executar
+## How to Run
 
-### Requisitos
-- Python 3.x instalado no seu computador
+### Requirements
+- Python 3.x installed on your computer
 
-### Passos
+### Steps
 
-1. Clone o repositório:
+1. Clone the repository:
 ```bash
 git clone https://github.com/l-beltramee/LB_portfolio.git
 ```
 
-2. Navegue até a pasta do jogo:
+2. Navigate to the game folder:
 ```bash
 cd LB_portfolio/Jogos
 ```
 
-3. Execute o jogo:
+3. Run the game:
 ```bash
 python jogo_da_velha.py
 ```
 
-## Exemplo de Jogo
+## Game Example
 
 ```
 [1, 2, 3]
 [4, 5, 6]
 [7, 8, 9]
 
-Digite onde quer colocar: 5
+Enter position: 5
 [1, 2, 3]
 [4, 'X', 6]
 [7, 8, 9]
 
-(Computador joga...)
+(Computer plays...)
 ```
 
-## Status
+## Features
 
-- Jogo funcional
-- Computador joga aleatoriamente
-- Verificação de vitória (linhas, colunas e diagonais)
-- Detecção de empate
+- Computer plays randomly
+- Victory check (rows, columns and diagonals)
+- Draw detection
 
-## Melhorias Futuras
+## Future Improvements
 
-- IA mais inteligente para o computador
-- Interface gráfica
-- Placar de pontuação
+- Smarter AI for the computer
+- Graphical interface
+- Score tracking
 
-## Autor
+## Author
 
-Criado por L Beltrame
+Created by L Beltrame
