@@ -1,11 +1,4 @@
 # Jogo da Velha
-
-Um jogo clássico da velha implementado em Python, onde você joga contra o computador.
-
-## Descrição
-
-Neste jogo você coloca X e o computador coloca O. O objetivo é conseguir 3 peças em linha (horizontal, vertical ou diagonal) antes que o computador consiga.
-
 ## Como Jogar
 
 1. O tabuleiro será exibido com números de 1 a 9 representando cada posição
@@ -61,7 +54,6 @@ Digite onde quer colocar: 5
 
 ## Status
 
-- Jogo funcional
 - Computador joga aleatoriamente
 - Verificação de vitória (linhas, colunas e diagonais)
 - Detecção de empate
@@ -74,4 +66,4 @@ Digite onde quer colocar: 5
 
 ## Autor
 
-Criado por L Beltrame
+Criado por Luccas Beltrame
