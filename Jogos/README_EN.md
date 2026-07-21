@@ -1,7 +1,6 @@
 # Tic Tac Toe
 
 ## How to Play
-
 1. The board will be displayed with numbers 1 to 9 representing each position
 2. Enter the number of the position where you want to place your X
 3. The computer will make its move automatically
@@ -67,4 +66,4 @@ Enter position: 5
 
 ## Author
 
-Created by L Beltrame
+Created by Luccas Beltrame
